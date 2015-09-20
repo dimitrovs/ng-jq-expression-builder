@@ -1,6 +1,6 @@
 /*
- * ng-expression-builder-directive v0.0.1
- * (c) 2015 Stefan Dimitrov http://dimitrov.li
+ * angular-expression-builder-directive v0.0.1
+ * (c) 2015 Stefan Dimitrov https://dimitrov.li
  * includes:
  * A JQuery Plugin for constructing valid DSL expressions.
  * https://github.com/jonmbake/expressionBuilder
